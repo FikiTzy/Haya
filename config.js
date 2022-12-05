@@ -48,23 +48,23 @@ global.sdc = 'https://wa.me/qr/T4CV2S27KZHAL1'
 global.snh = 'https://youtube.com/channel/UCgaoyyeZlObOfaSSuCJaPRg'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081330251835'
-global.povo = '081330251835'
-global.pgopay = '085230412839'
+global.pdana = '6283894145941'
+global.povo = '6283894145941'
+global.pgopay = '6283894145941'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336058567'
-global.nomorown = '6281330251835'
+global.nomorbot = '6283899262114'
+global.nomorown = '6283894145941'
 global.namebot = '⳹ ❋ཻུ۪۪⸙RulzBotz-MD⳹ ❋ཻུ۪۪'  //Nama Bot Kalian
-global.nameown = 'ᴹᴿ.RULZTODZ.Ofc'  //Nama Owner Bot Kalian
+global.nameown = 'ᴹᴿ.FIKI .Ofc'  //Nama Owner Bot Kalian
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281330251835'],
-  ['6281330251835'],
-  ['6281330251835'],
-  ['6281330251835', 'RulzTodz.Ofc', true]
+  ['6283894145941'],
+  ['6283894145941'],
+  ['6283894145941'],
+  ['6283894145941', 'FikiTodz.Ofc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
